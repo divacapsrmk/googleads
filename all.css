@@ -117,12 +117,12 @@ button
 }
 a
 {
-	color: #39b54a;
+	color: #C40000;
 	text-decoration: none;
 }
 a:focus,a:hover
 {
-	color: #39b54ac;
+	color: #C40000c;
 	text-decoration: underline;
 }
 a:focus
@@ -1068,7 +1068,7 @@ h1
 }
 .footer-1
 {
-	background: #2fb657;
+	background: #C40000;
 	text-align: center;
 }
 .footer-1 .info-footer
@@ -1481,7 +1481,7 @@ h1
 }
 .social_media .list_redes li a.fb:hover
 {
-	color: #39b54a;
+	color: #C40000;
 	moz-transition: all .3s;
 	moz-user-select: none;
 	ms-user-select: none;
@@ -1682,7 +1682,7 @@ h1
 }
 .products-header h4 em
 {
-	color: #39b54a;
+	color: #C40000;
 	font-style: normal;
 }
 .products-header p
@@ -1864,7 +1864,7 @@ h1
 }
 .products header
 {
-	background-color: #2fb657;
+	background-color: #C40000;
 	background-image: url(pattern-products.png);
 	height: 33px;
 	position: relative;
@@ -1890,7 +1890,7 @@ h1
 }
 .products header .pacotes-disponiveis
 {
-	background-color: #2fb657;
+	background-color: #C40000;
 	color: #fff;
 	display: inline;
 	left: -4px;
@@ -1922,7 +1922,7 @@ h1
 }
 .products header .seal-callout
 {
-	background: #39b54a;
+	background: #C40000;
 	color: #fff;
 	display: inline;
 	font-family: Teko,sans-serif;
@@ -1940,7 +1940,7 @@ h1
 }
 .products header .campeao
 {
-	background-color: #39b54a;
+	background-color: #C40000;
 	background-image: url(pattern-products.png);
 	color: #fff;
 	float: right;
