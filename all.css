@@ -2879,3 +2879,31 @@ h1
   font-weight: 600;
 
 }
+
+.aviso {
+    background-color: #06101a;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ffffff;
+}
+.aviso h1 {
+    font-size: 15px;
+    font-weight: 900;
+}
+.aviso p {
+    font-size: 15px;
+    font-weight: 300;
+}
+.aviso .pagamento {
+    text-align: right;
+}
+.aviso .img-pagamento {
+    padding-right: 0px;
+}
+.aviso h2 {
+    font-size: 15px;
+    font-weight: 900;
+    color: #3ae0fb;
+    margin-right: -60px;
+    margin-top: 10px;
+}
