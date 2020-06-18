@@ -562,7 +562,14 @@ button.close
 	clear: both;
 }
 @media (max-width: 767px)
+
+
 {
+
+		.sectionh{
+		text-align: center;
+	}
+	
 	.hidden-xs
 	{
 		display: none!important;
@@ -637,7 +644,7 @@ button.close
 }
 .fundo-preto
 {
-	background-color: #0f0f0f;
+	background-color: #06101A;
 	background-image: url(pattern.png);
 	position: relative;
 }
@@ -697,7 +704,7 @@ button.close
 }
 .fundo-preto2
 {
-	background-color: #0f0f0f;
+	background-color: #06101A;
 	background-image: url(pattern.png);
 	position: relative;
 }
@@ -1068,7 +1075,7 @@ h1
 }
 .footer-1
 {
-	background: #C40000;
+	background: #06101A;
 	text-align: center;
 }
 .footer-1 .info-footer
@@ -1411,7 +1418,14 @@ h1
 	padding: 15px 0 15px 13px;
 }
 @media (min-width: 768px)
+
+	
+
 {
+
+
+
+
 	.site-map .fb
 	{
 		display: block;
